@@ -1,6 +1,6 @@
-# YouTube-Content
-Playlists &amp; tutorials on  Cyber Security, Data Science &amp; AI | Watch &amp; learn with CynthiaTheDataTechie
 # 🎥 YouTube Lectures and Videos Repository
+Playlists &amp; tutorials on  Cyber Security, Data Science &amp; AI | Watch &amp; learn with CynthiaTheDataTechie
+
 Welcome to my **YouTube Lectures & Video Repository** 🎥  
 Here I share **insightful, easy-to-follow videos** on:
 - 🔐 Cybersecurity & Identity Management  
