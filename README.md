@@ -6,6 +6,7 @@ Here I share **insightful, easy-to-follow videos** on:
 - 🔐 Cybersecurity & Identity Management  
 - 📊 Data Science & Machine Learning  
 - ☁️ Cloud and Microsoft Technologies
+  
 [![Visit My YouTube Channel](https://www.youtube.com/@CynthiaTheDataTechie)  
 
 From **foundational concepts** to **real-world projects**, this repo is designed as a one-stop hub for learning, exploring, and growing your skills.  
